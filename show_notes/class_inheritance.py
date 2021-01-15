@@ -22,7 +22,7 @@ print(tiffany.active_users())
 #500
 print(tiffany.greeting())
 #Hi Tiffany Hudgens
-print(kristine.active_users())
+#print(kristine.active_users())
 #AttributeError: 'User' object has no attribute 'active_users'
 
 """
