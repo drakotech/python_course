@@ -68,6 +68,6 @@ standard NoSQL database, there are many different variations.
 There are Key/Value pair stores, wide-column family stores, 
 document databases, and graph databases.
 
-The above links are examples of these.
+The above links are some examples of these.
 
 """
