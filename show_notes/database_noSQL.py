@@ -13,11 +13,11 @@ use the SQL language. Since the mid-1980s, SQL has been a
 standard for querying and managing RDBMS data sets.
 
 Oracle SQl server or MySQL have a tablular structure and
-interface like spreadsheets, whereas NoSQL databases have
-various types of formats and can therefore be much more 
+interface similar to spreadsheets, whereas NoSQL databases 
+have various types of formats and can therefore be much more 
 flexible.
 
-For example where users need to create surveys with adifferent
+For example where users need to create surveys with a different
 number of fields. SQL database could handle it but it would 
 be very clunky. A NoSQL database can handle it no problem by 
 allowing the fields to be created dynamically and then each 
